@@ -1,6 +1,6 @@
 # The world of Yusax
 
-**Year 500** · tick 5177 · 27 living species · 0 nations
+**Year 600** · tick 5178 · 27 living species · 0 nations
 
 This branch is the world's save file. A robot commits here every hour. Nobody edits it by hand.
 Every commit is one century. Read the commit log and you are reading history.
@@ -26,11 +26,11 @@ None yet. The world is still wild.
 
 ## Most common species
 
-- **Kukutha**: tiny heat-loving filter-feeders, 280,999 alive
-- **Rithiops**: tiny temperate grazers, 158,304 alive
-- **Riroxons**: tiny cold-loving filter-feeders, 152,402 alive
-- **Thudriaxids**: tiny temperate filter-feeders, 121,718 alive
-- **Huhaxops**: tiny temperate filter-feeders, 94,119 alive
-- **Shaegothae**: tiny temperate grazers, 77,697 alive
-- **Sethelids**: tiny temperate scavengers, 62,931 alive
-- **Yaehuxons**: tiny temperate sea hunters, 62,622 alive
+- **Kukutha**: tiny heat-loving filter-feeders, 280,618 alive
+- **Rithiops**: tiny temperate grazers, 157,434 alive
+- **Riroxons**: tiny cold-loving filter-feeders, 153,454 alive
+- **Thudriaxids**: tiny temperate filter-feeders, 120,477 alive
+- **Huhaxops**: tiny temperate filter-feeders, 94,431 alive
+- **Shaegothae**: tiny temperate grazers, 78,632 alive
+- **Sethelids**: tiny temperate scavengers, 63,029 alive
+- **Yaehuxons**: tiny temperate sea hunters, 62,840 alive
