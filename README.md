@@ -6,7 +6,7 @@ Somewhere on GitHub's servers there is a small planet. Every hour, a century pas
 
 You get **one move a day**. Drop a meteor, start a plague, bless a species, hand one of them fire, or call down an ice age. Then you watch what the world does with it.
 
-**Live site:** LIVE_URL
+**Live site:** https://freecontrol.vercel.app
 
 **The world's history, as git commits:** https://github.com/cburdick28-spec/freecontrol/commits/world
 

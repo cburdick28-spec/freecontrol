@@ -23,9 +23,11 @@ export async function readFile(path: string, ref: string = BRANCH): Promise<stri
     const { readFile: fsRead } = await import("node:fs/promises");
     return fsRead(`${local}/${path}`, "utf8").catch(() => null);
   }
-  const res = await fetch(`${API}/contents/${path}?ref=${encodeURIComponent(ref)}`, {
-    headers: headers({ Accept: "application/vnd.github.raw+json" }), cache: "no-store",
-  });
+  const url = `${API}/contents/${path}?ref=${encodeURIComponent(ref)}`;
+  let res = await fetch(url, { headers: headers({ Accept: "application/vnd.github.raw+json" }), cache: "no-store" });
+  // A bad or expired token should not take the whole site down. The repo is public, so reading still works without it.
+  if ((res.status === 401 || res.status === 403) && hasToken())
+    res = await fetch(url, { headers: { "User-Agent": "freecontrol", Accept: "application/vnd.github.raw+json" }, cache: "no-store" });
   if (res.status === 404) return null;
   if (!res.ok) throw new Error(`GitHub ${res.status} reading ${path}`);
   return res.text();
