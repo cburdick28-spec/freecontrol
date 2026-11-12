@@ -1,0 +1,63 @@
+name: Tick the world
+
+# Once an hour, advance the world one century and commit the result to the `world` branch.
+# GitHub often runs schedules late or skips one. The tick script catches up on its own.
+on:
+  schedule:
+    - cron: "7 * * * *"
+  workflow_dispatch:
+    inputs:
+      ticks:
+        description: "Force this many ticks (leave empty to run only what is due)"
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: tick
+  cancel-in-progress: false
+
+jobs:
+  tick:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Check out the world branch
+        run: |
+          git config user.name "the-world"
+          git config user.email "world@users.noreply.github.com"
+          if git fetch origin world; then
+            git worktree add world origin/world
+            git -C world switch -C world
+          else
+            git worktree add --detach world
+            git -C world switch --orphan world
+          fi
+
+      - name: Advance time
+        env:
+          TICKS: ${{ inputs.ticks }}
+          WORLD_SEED: ${{ vars.WORLD_SEED }}
+        run: |
+          if [ -n "$TICKS" ]; then
+            npx --yes tsx@4 scripts/tick.ts --dir world --ticks "$TICKS"
+          else
+            npx --yes tsx@4 scripts/tick.ts --dir world
+          fi
+
+      - name: Save history
+        run: |
+          cd world
+          for attempt in 1 2 3 4; do
+            git push origin world && exit 0
+            git pull --rebase origin world || true
+            sleep 3
+          done
+          exit 1
