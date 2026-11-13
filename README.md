@@ -1,12 +1,13 @@
 # The world of Yusax
 
-**Year 900** · tick 5181 · 27 living species · 1 nations
+**Year 1,000** · tick 5182 · 27 living species · 2 nations
 
 This branch is the world's save file. A robot commits here every hour. Nobody edits it by hand.
 Every commit is one century. Read the commit log and you are reading history.
 
 ## Latest news
 
+- **Year 1,000** The Hiamami raise their newest nation: the Fyhym Theocracy
 - **Year 900** The Hiamami raise their first nation: the Puyaex Realm
 - **Year 900** The Hiamami learn to speak, tame fire, and bury their dead
 - **Year 800** The Krariaae go extinct after 23,000 years
@@ -18,21 +19,21 @@ Every commit is one century. Read the commit log and you are reading history.
 - **9,600 BW** The Fousiani go extinct after 273,400 years
 - **11,200 BW** The Quibromons go extinct after 17,800 years
 - **13,400 BW** The Zoyoops go extinct after 253,100 years
-- **16,500 BW** The world cools. Glaciers creep down from the poles
 
 ## Nations
 
 | Nation | Era | People | Land | Stability |
 | --- | --- | ---: | ---: | ---: |
-| Puyaex Realm | Stone Age | 244 | 3 | 76 |
+| Puyaex Realm | Stone Age | 294 | 3 | 78 |
+| Fyhym Theocracy | Stone Age | 244 | 3 | 69 |
 
 ## Most common species
 
-- **Kukutha**: tiny heat-loving filter-feeders, 276,358 alive
-- **Riroxons**: tiny cold-loving filter-feeders, 156,975 alive
-- **Rithiops**: tiny temperate grazers, 156,732 alive
-- **Thudriaxids**: tiny temperate filter-feeders, 117,749 alive
-- **Huhaxops**: tiny temperate filter-feeders, 95,800 alive
-- **Shaegothae**: tiny temperate grazers, 78,836 alive
-- **Sethelids**: tiny temperate scavengers, 63,200 alive
-- **Yaehuxons**: tiny temperate sea hunters, 63,193 alive
+- **Kukutha**: tiny heat-loving filter-feeders, 274,953 alive
+- **Riroxons**: tiny cold-loving filter-feeders, 158,023 alive
+- **Rithiops**: tiny temperate grazers, 156,495 alive
+- **Thudriaxids**: tiny temperate filter-feeders, 117,099 alive
+- **Huhaxops**: tiny temperate filter-feeders, 96,506 alive
+- **Shaegothae**: tiny temperate grazers, 77,566 alive
+- **Sethelids**: tiny temperate scavengers, 63,245 alive
+- **Yaehuxons**: tiny temperate sea hunters, 63,104 alive
