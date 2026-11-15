@@ -1,12 +1,13 @@
 # The world of Yusax
 
-**Year 8,000** · tick 5252 · 27 living species · 2 nations
+**Year 8,100** · tick 5253 · 26 living species · 2 nations
 
 This branch is the world's save file. A robot commits here every hour. Nobody edits it by hand.
 Every commit is one century. Read the commit log and you are reading history.
 
 ## Latest news
 
+- **Year 8,100** The Tofoulari go extinct after 225,300 years
 - **Year 7,900** A volcano erupts in the lands of Puyaex Realm
 - **Year 7,200** Yyror Horde is conquered by Fyhym Theocracy after 4,500 years
 - **Year 6,900** Yyror Horde declares war on Fyhym Theocracy
@@ -18,22 +19,21 @@ Every commit is one century. Read the commit log and you are reading history.
 - **Year 1,000** The Hiamami raise their newest nation: the Fyhym Theocracy
 - **Year 900** The Hiamami raise their first nation: the Puyaex Realm
 - **Year 900** The Hiamami learn to speak, tame fire, and bury their dead
-- **Year 800** The Krariaae go extinct after 23,000 years
 
 ## Nations
 
 | Nation | Era | People | Land | Stability |
 | --- | --- | ---: | ---: | ---: |
-| Puyaex Realm | Iron Age | 9,454 | 45 | 95 |
-| Fyhym Theocracy | Bronze Age | 5,937 | 33 | 64 |
+| Puyaex Realm | Iron Age | 9,530 | 47 | 89 |
+| Fyhym Theocracy | Bronze Age | 6,156 | 35 | 68 |
 
 ## Most common species
 
-- **Kukutha**: tiny heat-loving filter-feeders, 152,718 alive
-- **Riroxons**: tiny cold-loving filter-feeders, 150,198 alive
-- **Yogasons**: tiny heat-loving filter-feeders, 90,772 alive
-- **Hiamami**: tiny temperate grazers, 78,185 alive (thinking)
-- **Huhaxops**: tiny temperate filter-feeders, 71,207 alive
-- **Thudriaxids**: tiny temperate filter-feeders, 68,937 alive
-- **Shaegothae**: tiny temperate grazers, 63,316 alive
-- **Rithiops**: tiny temperate grazers, 62,286 alive
+- **Riroxons**: tiny cold-loving filter-feeders, 151,058 alive
+- **Kukutha**: tiny heat-loving filter-feeders, 148,273 alive
+- **Yogasons**: tiny heat-loving filter-feeders, 84,562 alive
+- **Hiamami**: tiny temperate grazers, 77,427 alive (thinking)
+- **Huhaxops**: tiny temperate filter-feeders, 71,482 alive
+- **Thudriaxids**: tiny temperate filter-feeders, 68,030 alive
+- **Shaegothae**: tiny temperate grazers, 63,574 alive
+- **Rithiops**: tiny temperate grazers, 61,665 alive
