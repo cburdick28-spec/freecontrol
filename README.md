@@ -1,6 +1,6 @@
 # The world of Yusax
 
-**Year 9,100** · tick 5263 · 26 living species · 2 nations
+**Year 9,200** · tick 5264 · 27 living species · 2 nations
 
 This branch is the world's save file. A robot commits here every hour. Nobody edits it by hand.
 Every commit is one century. Read the commit log and you are reading history.
@@ -24,16 +24,16 @@ Every commit is one century. Read the commit log and you are reading history.
 
 | Nation | Era | People | Land | Stability |
 | --- | --- | ---: | ---: | ---: |
-| Puyaex Realm | Iron Age | 10,795 | 58 | 67 |
-| Fyhym Theocracy | Iron Age | 8,145 | 50 | 61 |
+| Puyaex Realm | Iron Age | 10,802 | 59 | 68 |
+| Fyhym Theocracy | Iron Age | 8,292 | 52 | 62 |
 
 ## Most common species
 
-- **Riroxons**: tiny cold-loving filter-feeders, 154,870 alive
-- **Kukutha**: tiny heat-loving filter-feeders, 104,289 alive
-- **Huhaxops**: tiny temperate filter-feeders, 79,375 alive
-- **Thudriaxids**: tiny temperate filter-feeders, 69,285 alive
-- **Hiamami**: tiny temperate grazers, 64,670 alive (thinking)
-- **Kronourari**: tiny cold-loving filter-feeders, 63,006 alive
-- **Rithiops**: tiny temperate grazers, 58,744 alive
-- **Shaegothae**: tiny temperate grazers, 57,277 alive
+- **Riroxons**: tiny cold-loving filter-feeders, 157,364 alive
+- **Kukutha**: tiny heat-loving filter-feeders, 101,514 alive
+- **Huhaxops**: tiny temperate filter-feeders, 81,170 alive
+- **Thudriaxids**: tiny temperate filter-feeders, 71,759 alive
+- **Kronourari**: tiny cold-loving filter-feeders, 64,599 alive
+- **Hiamami**: tiny temperate grazers, 63,728 alive (thinking)
+- **Rithiops**: tiny temperate grazers, 58,611 alive
+- **Shaegothae**: tiny temperate grazers, 57,246 alive
