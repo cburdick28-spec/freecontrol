@@ -1,12 +1,13 @@
 # The world of Yusax
 
-**Year 12,500** · tick 5297 · 27 living species · 4 nations
+**Year 12,600** · tick 5298 · 27 living species · 4 nations
 
 This branch is the world's save file. A robot commits here every hour. Nobody edits it by hand.
 Every commit is one century. Read the commit log and you are reading history.
 
 ## Latest news
 
+- **Year 12,600** Fyhym Theocracy and Drulem Kingdom make peace after 600 years of war
 - **Year 12,000** Civil war tears Fyhym Theocracy apart. The Drulem Kingdom break away
 - **Year 10,700** The Braebriaxari go extinct after 125,700 years
 - **Year 9,700** The Hiamami raise their newest nation: the Nipal Compact
@@ -18,24 +19,23 @@ Every commit is one century. Read the commit log and you are reading history.
 - **Year 7,200** Yyror Horde is conquered by Fyhym Theocracy after 4,500 years
 - **Year 6,900** Yyror Horde declares war on Fyhym Theocracy
 - **Year 5,500** The Krayilids return to the water, leaving their Quyhixids cousins ashore
-- **Year 4,700** The Muhasops crawl out of the sea. Descendants of the Brabrinae now walk on land
 
 ## Nations
 
 | Nation | Era | People | Land | Stability |
 | --- | --- | ---: | ---: | ---: |
-| Puyaex Realm | Medieval Age | 20,481 | 74 | 43 |
-| Fyhym Theocracy | Iron Age | 10,395 | 73 | 45 |
-| Drulem Kingdom | Iron Age | 2,855 | 19 | 65 |
-| Nipal Compact | Bronze Age | 1,907 | 7 | 72 |
+| Puyaex Realm | Medieval Age | 20,819 | 75 | 46 |
+| Fyhym Theocracy | Iron Age | 10,490 | 72 | 44 |
+| Drulem Kingdom | Iron Age | 2,898 | 20 | 68 |
+| Nipal Compact | Bronze Age | 1,976 | 7 | 70 |
 
 ## Most common species
 
-- **Riroxons**: tiny cold-loving filter-feeders, 181,342 alive
-- **Thudriaxids**: tiny temperate filter-feeders, 154,225 alive
-- **Huhaxops**: tiny temperate filter-feeders, 127,613 alive
-- **Kukutha**: tiny heat-loving filter-feeders, 105,824 alive
-- **Rithiops**: tiny temperate grazers, 96,997 alive
-- **Kronourari**: tiny cold-loving filter-feeders, 82,345 alive
-- **Hiamami**: tiny temperate grazers, 79,798 alive (thinking)
-- **Yaehuxons**: tiny temperate sea hunters, 64,113 alive
+- **Riroxons**: tiny cold-loving filter-feeders, 181,588 alive
+- **Thudriaxids**: tiny temperate filter-feeders, 154,661 alive
+- **Huhaxops**: tiny temperate filter-feeders, 127,661 alive
+- **Kukutha**: tiny heat-loving filter-feeders, 108,404 alive
+- **Rithiops**: tiny temperate grazers, 97,435 alive
+- **Kronourari**: tiny cold-loving filter-feeders, 82,187 alive
+- **Hiamami**: tiny temperate grazers, 81,145 alive (thinking)
+- **Yaehuxons**: tiny temperate sea hunters, 64,223 alive
