@@ -1,6 +1,6 @@
 # The world of Yusax
 
-**Year 19,000** · tick 5362 · 27 living species · 5 nations
+**Year 19,100** · tick 5363 · 27 living species · 5 nations
 
 This branch is the world's save file. A robot commits here every hour. Nobody edits it by hand.
 Every commit is one century. Read the commit log and you are reading history.
@@ -24,19 +24,19 @@ Every commit is one century. Read the commit log and you are reading history.
 
 | Nation | Era | People | Land | Stability |
 | --- | --- | ---: | ---: | ---: |
-| Puyaex Realm | Renaissance | 38,932 | 108 | 32 |
-| Vykrux Order | Iron Age | 22,194 | 42 | 79 |
-| Drulem Kingdom | Medieval Age | 20,018 | 69 | 69 |
-| Fyhym Theocracy | Medieval Age | 18,081 | 87 | 26 |
-| Nipal Compact | Renaissance | 3,771 | 7 | 61 |
+| Puyaex Realm | Renaissance | 40,636 | 110 | 32 |
+| Vykrux Order | Iron Age | 23,011 | 44 | 75 |
+| Drulem Kingdom | Medieval Age | 21,582 | 71 | 65 |
+| Fyhym Theocracy | Medieval Age | 18,460 | 87 | 26 |
+| Nipal Compact | Renaissance | 3,932 | 7 | 59 |
 
 ## Most common species
 
-- **Riroxons**: tiny cold-loving filter-feeders, 175,744 alive
-- **Thudriaxids**: tiny temperate filter-feeders, 158,857 alive
-- **Huhaxops**: tiny temperate filter-feeders, 117,280 alive
-- **Hiamami**: tiny temperate grazers, 99,059 alive (thinking)
-- **Kukutha**: tiny heat-loving filter-feeders, 84,505 alive
-- **Kronourari**: tiny cold-loving filter-feeders, 79,717 alive
-- **Rithiops**: tiny temperate grazers, 70,935 alive
-- **Yaehuxons**: tiny temperate sea hunters, 60,991 alive
+- **Riroxons**: tiny cold-loving filter-feeders, 176,950 alive
+- **Thudriaxids**: tiny temperate filter-feeders, 157,310 alive
+- **Huhaxops**: tiny temperate filter-feeders, 118,137 alive
+- **Hiamami**: tiny temperate grazers, 101,298 alive (thinking)
+- **Kukutha**: tiny heat-loving filter-feeders, 90,212 alive
+- **Kronourari**: tiny cold-loving filter-feeders, 79,483 alive
+- **Rithiops**: tiny temperate grazers, 71,095 alive
+- **Sethelids**: tiny temperate scavengers, 60,780 alive
