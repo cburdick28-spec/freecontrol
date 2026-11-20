@@ -1,6 +1,6 @@
 # The world of Yusax
 
-**Year 20,000** · tick 5372 · 27 living species · 6 nations
+**Year 20,100** · tick 5373 · 27 living species · 6 nations
 
 This branch is the world's save file. A robot commits here every hour. Nobody edits it by hand.
 Every commit is one century. Read the commit log and you are reading history.
@@ -24,20 +24,20 @@ Every commit is one century. Read the commit log and you are reading history.
 
 | Nation | Era | People | Land | Stability |
 | --- | --- | ---: | ---: | ---: |
-| Puyaex Realm | Renaissance | 54,705 | 129 | 25 |
-| Drulem Kingdom | Medieval Age | 37,464 | 91 | 49 |
-| Vykrux Order | Medieval Age | 27,626 | 55 | 68 |
-| Fyhym Theocracy | Medieval Age | 18,845 | 80 | 39 |
-| Segias Order | Medieval Age | 4,848 | 29 | 77 |
-| Nipal Compact | Renaissance | 3,931 | 7 | 62 |
+| Puyaex Realm | Renaissance | 55,929 | 133 | 25 |
+| Drulem Kingdom | Medieval Age | 39,069 | 93 | 44 |
+| Vykrux Order | Medieval Age | 27,972 | 56 | 66 |
+| Fyhym Theocracy | Renaissance | 20,038 | 80 | 38 |
+| Segias Order | Medieval Age | 5,263 | 30 | 78 |
+| Nipal Compact | Renaissance | 3,727 | 7 | 65 |
 
 ## Most common species
 
-- **Riroxons**: tiny cold-loving filter-feeders, 175,096 alive
-- **Thudriaxids**: tiny temperate filter-feeders, 141,827 alive
-- **Kukutha**: tiny heat-loving filter-feeders, 135,819 alive
-- **Huhaxops**: tiny temperate filter-feeders, 125,964 alive
-- **Hiamami**: tiny temperate grazers, 113,552 alive (thinking)
-- **Rithiops**: tiny temperate grazers, 70,121 alive
-- **Kronourari**: tiny cold-loving filter-feeders, 69,251 alive
-- **Sethelids**: tiny temperate scavengers, 61,492 alive
+- **Riroxons**: tiny cold-loving filter-feeders, 175,016 alive
+- **Thudriaxids**: tiny temperate filter-feeders, 140,634 alive
+- **Kukutha**: tiny heat-loving filter-feeders, 139,874 alive
+- **Huhaxops**: tiny temperate filter-feeders, 126,577 alive
+- **Hiamami**: tiny temperate grazers, 115,617 alive (thinking)
+- **Rithiops**: tiny temperate grazers, 69,542 alive
+- **Kronourari**: tiny cold-loving filter-feeders, 67,891 alive
+- **Sethelids**: tiny temperate scavengers, 61,403 alive
