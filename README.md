@@ -1,6 +1,6 @@
 # The world of Yusax
 
-**Year 18,200** · tick 5354 · 27 living species · 5 nations
+**Year 18,300** · tick 5355 · 27 living species · 5 nations
 
 This branch is the world's save file. A robot commits here every hour. Nobody edits it by hand.
 Every commit is one century. Read the commit log and you are reading history.
@@ -24,19 +24,19 @@ Every commit is one century. Read the commit log and you are reading history.
 
 | Nation | Era | People | Land | Stability |
 | --- | --- | ---: | ---: | ---: |
-| Puyaex Realm | Renaissance | 29,695 | 98 | 35 |
-| Fyhym Theocracy | Medieval Age | 15,826 | 84 | 29 |
-| Vykrux Order | Iron Age | 13,115 | 33 | 66 |
-| Drulem Kingdom | Medieval Age | 9,392 | 59 | 79 |
-| Nipal Compact | Medieval Age | 4,636 | 7 | 71 |
+| Puyaex Realm | Renaissance | 30,501 | 99 | 33 |
+| Fyhym Theocracy | Medieval Age | 15,964 | 84 | 29 |
+| Vykrux Order | Iron Age | 14,234 | 34 | 71 |
+| Drulem Kingdom | Medieval Age | 10,352 | 60 | 73 |
+| Nipal Compact | Medieval Age | 4,675 | 7 | 69 |
 
 ## Most common species
 
-- **Riroxons**: tiny cold-loving filter-feeders, 169,294 alive
-- **Thudriaxids**: tiny temperate filter-feeders, 162,216 alive
-- **Huhaxops**: tiny temperate filter-feeders, 113,652 alive
-- **Hiamami**: tiny temperate grazers, 84,425 alive (thinking)
-- **Kronourari**: tiny cold-loving filter-feeders, 84,126 alive
-- **Rithiops**: tiny temperate grazers, 68,525 alive
-- **Yaehuxons**: tiny temperate sea hunters, 63,531 alive
-- **Sethelids**: tiny temperate scavengers, 58,158 alive
+- **Riroxons**: tiny cold-loving filter-feeders, 168,654 alive
+- **Thudriaxids**: tiny temperate filter-feeders, 162,541 alive
+- **Huhaxops**: tiny temperate filter-feeders, 114,053 alive
+- **Hiamami**: tiny temperate grazers, 85,670 alive (thinking)
+- **Kronourari**: tiny cold-loving filter-feeders, 83,463 alive
+- **Rithiops**: tiny temperate grazers, 68,932 alive
+- **Yaehuxons**: tiny temperate sea hunters, 63,794 alive
+- **Sethelids**: tiny temperate scavengers, 58,595 alive
