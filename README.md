@@ -1,6 +1,6 @@
 # The world of Yusax
 
-**Year 20,700** · tick 5379 · 27 living species · 5 nations
+**Year 20,800** · tick 5380 · 27 living species · 5 nations
 
 This branch is the world's save file. A robot commits here every hour. Nobody edits it by hand.
 Every commit is one century. Read the commit log and you are reading history.
@@ -24,19 +24,19 @@ Every commit is one century. Read the commit log and you are reading history.
 
 | Nation | Era | People | Land | Stability |
 | --- | --- | ---: | ---: | ---: |
-| Drulem Kingdom | Medieval Age | 46,056 | 102 | 43 |
-| Vykrux Order | Medieval Age | 31,040 | 62 | 55 |
-| Fyhym Theocracy | Renaissance | 26,040 | 84 | 37 |
-| Segias Order | Medieval Age | 7,343 | 33 | 70 |
-| Nipal Compact | Renaissance | 2,962 | 8 | 74 |
+| Drulem Kingdom | Medieval Age | 46,812 | 102 | 43 |
+| Vykrux Order | Medieval Age | 31,846 | 65 | 55 |
+| Fyhym Theocracy | Renaissance | 26,870 | 87 | 36 |
+| Segias Order | Medieval Age | 7,707 | 33 | 67 |
+| Nipal Compact | Renaissance | 3,103 | 11 | 75 |
 
 ## Most common species
 
-- **Riroxons**: tiny cold-loving filter-feeders, 172,679 alive
-- **Kukutha**: tiny heat-loving filter-feeders, 162,179 alive
-- **Thudriaxids**: tiny temperate filter-feeders, 135,260 alive
-- **Huhaxops**: tiny temperate filter-feeders, 130,075 alive
-- **Hiamami**: tiny temperate grazers, 127,772 alive (thinking)
-- **Rithiops**: tiny temperate grazers, 76,813 alive
-- **Sethelids**: tiny temperate scavengers, 61,016 alive
-- **Kronourari**: tiny cold-loving filter-feeders, 60,824 alive
+- **Riroxons**: tiny cold-loving filter-feeders, 173,786 alive
+- **Kukutha**: tiny heat-loving filter-feeders, 165,809 alive
+- **Thudriaxids**: tiny temperate filter-feeders, 135,295 alive
+- **Huhaxops**: tiny temperate filter-feeders, 130,367 alive
+- **Hiamami**: tiny temperate grazers, 129,453 alive (thinking)
+- **Rithiops**: tiny temperate grazers, 83,176 alive
+- **Sethelids**: tiny temperate scavengers, 60,907 alive
+- **Kronourari**: tiny cold-loving filter-feeders, 59,869 alive
