@@ -1,6 +1,6 @@
 # The world of Yusax
 
-**Year 20,900** · tick 5381 · 27 living species · 5 nations
+**Year 21,000** · tick 5382 · 27 living species · 5 nations
 
 This branch is the world's save file. A robot commits here every hour. Nobody edits it by hand.
 Every commit is one century. Read the commit log and you are reading history.
@@ -24,19 +24,19 @@ Every commit is one century. Read the commit log and you are reading history.
 
 | Nation | Era | People | Land | Stability |
 | --- | --- | ---: | ---: | ---: |
-| Drulem Kingdom | Medieval Age | 47,714 | 102 | 43 |
-| Vykrux Order | Medieval Age | 32,841 | 68 | 52 |
-| Fyhym Theocracy | Renaissance | 28,014 | 89 | 39 |
-| Segias Order | Medieval Age | 8,001 | 33 | 72 |
-| Nipal Compact | Renaissance | 3,275 | 13 | 77 |
+| Drulem Kingdom | Medieval Age | 48,435 | 102 | 40 |
+| Vykrux Order | Medieval Age | 34,120 | 70 | 48 |
+| Fyhym Theocracy | Renaissance | 28,973 | 90 | 37 |
+| Segias Order | Medieval Age | 8,234 | 33 | 76 |
+| Nipal Compact | Renaissance | 3,454 | 14 | 73 |
 
 ## Most common species
 
-- **Riroxons**: tiny cold-loving filter-feeders, 174,361 alive
-- **Kukutha**: tiny heat-loving filter-feeders, 169,247 alive
-- **Thudriaxids**: tiny temperate filter-feeders, 135,432 alive
-- **Huhaxops**: tiny temperate filter-feeders, 130,561 alive
-- **Hiamami**: tiny temperate grazers, 130,495 alive (thinking)
-- **Rithiops**: tiny temperate grazers, 88,722 alive
-- **Sethelids**: tiny temperate scavengers, 60,772 alive
-- **Kronourari**: tiny cold-loving filter-feeders, 58,909 alive
+- **Riroxons**: tiny cold-loving filter-feeders, 174,133 alive
+- **Kukutha**: tiny heat-loving filter-feeders, 173,492 alive
+- **Thudriaxids**: tiny temperate filter-feeders, 135,722 alive
+- **Hiamami**: tiny temperate grazers, 132,050 alive (thinking)
+- **Huhaxops**: tiny temperate filter-feeders, 130,931 alive
+- **Rithiops**: tiny temperate grazers, 92,847 alive
+- **Sethelids**: tiny temperate scavengers, 60,725 alive
+- **Kronourari**: tiny cold-loving filter-feeders, 58,040 alive
