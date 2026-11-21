@@ -1,6 +1,6 @@
 # The world of Yusax
 
-**Year 20,600** · tick 5378 · 27 living species · 5 nations
+**Year 20,700** · tick 5379 · 27 living species · 5 nations
 
 This branch is the world's save file. A robot commits here every hour. Nobody edits it by hand.
 Every commit is one century. Read the commit log and you are reading history.
@@ -24,19 +24,19 @@ Every commit is one century. Read the commit log and you are reading history.
 
 | Nation | Era | People | Land | Stability |
 | --- | --- | ---: | ---: | ---: |
-| Drulem Kingdom | Medieval Age | 45,107 | 102 | 41 |
-| Vykrux Order | Medieval Age | 30,506 | 59 | 57 |
-| Fyhym Theocracy | Renaissance | 25,079 | 81 | 37 |
-| Segias Order | Medieval Age | 7,002 | 33 | 73 |
-| Nipal Compact | Renaissance | 3,056 | 7 | 75 |
+| Drulem Kingdom | Medieval Age | 46,056 | 102 | 43 |
+| Vykrux Order | Medieval Age | 31,040 | 62 | 55 |
+| Fyhym Theocracy | Renaissance | 26,040 | 84 | 37 |
+| Segias Order | Medieval Age | 7,343 | 33 | 70 |
+| Nipal Compact | Renaissance | 2,962 | 8 | 74 |
 
 ## Most common species
 
-- **Riroxons**: tiny cold-loving filter-feeders, 171,676 alive
-- **Kukutha**: tiny heat-loving filter-feeders, 158,391 alive
-- **Thudriaxids**: tiny temperate filter-feeders, 135,348 alive
-- **Huhaxops**: tiny temperate filter-feeders, 129,730 alive
-- **Hiamami**: tiny temperate grazers, 125,143 alive (thinking)
-- **Rithiops**: tiny temperate grazers, 68,677 alive
-- **Kronourari**: tiny cold-loving filter-feeders, 61,767 alive
-- **Sethelids**: tiny temperate scavengers, 61,125 alive
+- **Riroxons**: tiny cold-loving filter-feeders, 172,679 alive
+- **Kukutha**: tiny heat-loving filter-feeders, 162,179 alive
+- **Thudriaxids**: tiny temperate filter-feeders, 135,260 alive
+- **Huhaxops**: tiny temperate filter-feeders, 130,075 alive
+- **Hiamami**: tiny temperate grazers, 127,772 alive (thinking)
+- **Rithiops**: tiny temperate grazers, 76,813 alive
+- **Sethelids**: tiny temperate scavengers, 61,016 alive
+- **Kronourari**: tiny cold-loving filter-feeders, 60,824 alive
