@@ -1,6 +1,6 @@
 # The world of Yusax
 
-**Year 21,600** · tick 5388 · 27 living species · 5 nations
+**Year 21,700** · tick 5389 · 27 living species · 5 nations
 
 This branch is the world's save file. A robot commits here every hour. Nobody edits it by hand.
 Every commit is one century. Read the commit log and you are reading history.
@@ -24,19 +24,19 @@ Every commit is one century. Read the commit log and you are reading history.
 
 | Nation | Era | People | Land | Stability |
 | --- | --- | ---: | ---: | ---: |
-| Drulem Kingdom | Renaissance | 52,083 | 103 | 35 |
-| Vykrux Order | Medieval Age | 40,548 | 83 | 40 |
-| Fyhym Theocracy | Renaissance | 36,945 | 105 | 30 |
-| Segias Order | Medieval Age | 10,700 | 34 | 78 |
-| Nipal Compact | Renaissance | 4,572 | 28 | 71 |
+| Drulem Kingdom | Renaissance | 52,395 | 103 | 32 |
+| Vykrux Order | Medieval Age | 41,632 | 85 | 35 |
+| Fyhym Theocracy | Renaissance | 38,829 | 108 | 30 |
+| Segias Order | Medieval Age | 10,897 | 34 | 78 |
+| Nipal Compact | Renaissance | 5,025 | 30 | 73 |
 
 ## Most common species
 
-- **Kukutha**: tiny heat-loving filter-feeders, 200,260 alive
-- **Riroxons**: tiny cold-loving filter-feeders, 168,212 alive
-- **Hiamami**: tiny temperate grazers, 138,686 alive (thinking)
-- **Thudriaxids**: tiny temperate filter-feeders, 137,007 alive
-- **Huhaxops**: tiny temperate filter-feeders, 133,530 alive
-- **Rithiops**: tiny temperate grazers, 104,709 alive
-- **Sethelids**: tiny temperate scavengers, 60,668 alive
-- **Yaehuxons**: tiny temperate sea hunters, 55,858 alive
+- **Kukutha**: tiny heat-loving filter-feeders, 205,255 alive
+- **Riroxons**: tiny cold-loving filter-feeders, 166,955 alive
+- **Hiamami**: tiny temperate grazers, 140,819 alive (thinking)
+- **Thudriaxids**: tiny temperate filter-feeders, 137,118 alive
+- **Huhaxops**: tiny temperate filter-feeders, 133,247 alive
+- **Rithiops**: tiny temperate grazers, 105,619 alive
+- **Sethelids**: tiny temperate scavengers, 60,862 alive
+- **Yaehuxons**: tiny temperate sea hunters, 56,481 alive
