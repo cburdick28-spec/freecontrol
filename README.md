@@ -1,12 +1,15 @@
 # The world of Yusax
 
-**Year 23,200** · tick 5404 · 27 living species · 5 nations
+**Year 23,300** · tick 5405 · 27 living species · 6 nations
 
 This branch is the world's save file. A robot commits here every hour. Nobody edits it by hand.
 Every commit is one century. Read the commit log and you are reading history.
 
 ## Latest news
 
+- **Year 23,300** Civil war tears Drulem Kingdom apart. The Poupam Compact break away
+- **Year 23,300** The Nibrinari learn to speak, tame fire, and bury their dead
+- **Year 23,300** The Nohexa are gone, crowded out as the Drulem Kingdom spreads
 - **Year 23,000** Vykrux Order and Koufith Dominion make peace after 400 years of war
 - **Year 22,900** Fyhym Theocracy collapses into ruin after 21,900 years
 - **Year 22,800** A volcano erupts in the lands of Segias Order
@@ -16,27 +19,25 @@ Every commit is one century. Read the commit log and you are reading history.
 - **Year 21,400** A dark age falls on Drulem Kingdom. Knowledge is lost
 - **Year 21,300** A warm age begins. The ice retreats and the seas rise with life
 - **Year 21,100** The Roubrylae crawl out of the sea. Descendants of the Sethelids now walk on land
-- **Year 20,600** Puyaex Realm collapses into ruin after 19,700 years
-- **Year 19,800** Fyhym Theocracy and Segias Order make peace after 600 years of war
-- **Year 19,200** Civil war tears Fyhym Theocracy apart. The Segias Order break away
 
 ## Nations
 
 | Nation | Era | People | Land | Stability |
 | --- | --- | ---: | ---: | ---: |
-| Drulem Kingdom | Medieval Age | 51,511 | 117 | 22 |
-| Vykrux Order | Medieval Age | 45,895 | 96 | 36 |
-| Nipal Compact | Renaissance | 15,182 | 60 | 71 |
-| Segias Order | Medieval Age | 14,081 | 49 | 72 |
-| Koufith Dominion | Iron Age | 3,400 | 22 | 63 |
+| Vykrux Order | Medieval Age | 47,381 | 96 | 33 |
+| Poupam Compact | Iron Age | 25,994 | 61 | 60 |
+| Drulem Kingdom | Medieval Age | 25,142 | 59 | 54 |
+| Nipal Compact | Renaissance | 15,512 | 64 | 72 |
+| Segias Order | Medieval Age | 14,234 | 52 | 71 |
+| Koufith Dominion | Iron Age | 3,614 | 23 | 64 |
 
 ## Most common species
 
-- **Kukutha**: tiny heat-loving filter-feeders, 287,472 alive
-- **Hiamami**: tiny temperate grazers, 181,671 alive (thinking)
-- **Riroxons**: tiny cold-loving filter-feeders, 150,668 alive
-- **Thudriaxids**: tiny temperate filter-feeders, 131,422 alive
-- **Huhaxops**: tiny temperate filter-feeders, 123,672 alive
-- **Rithiops**: tiny temperate grazers, 106,892 alive
-- **Sethelids**: tiny temperate scavengers, 62,381 alive
-- **Yaehuxons**: tiny temperate sea hunters, 61,898 alive
+- **Kukutha**: tiny heat-loving filter-feeders, 291,927 alive
+- **Hiamami**: tiny temperate grazers, 178,354 alive (thinking)
+- **Riroxons**: tiny cold-loving filter-feeders, 150,724 alive
+- **Thudriaxids**: tiny temperate filter-feeders, 130,933 alive
+- **Huhaxops**: tiny temperate filter-feeders, 122,192 alive
+- **Rithiops**: tiny temperate grazers, 107,944 alive
+- **Sethelids**: tiny temperate scavengers, 62,494 alive
+- **Yaehuxons**: tiny temperate sea hunters, 62,182 alive
