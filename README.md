@@ -1,6 +1,6 @@
 # The world of Yusax
 
-**Year 23,800** · tick 5410 · 27 living species · 6 nations
+**Year 23,900** · tick 5411 · 27 living species · 6 nations
 
 This branch is the world's save file. A robot commits here every hour. Nobody edits it by hand.
 Every commit is one century. Read the commit log and you are reading history.
@@ -24,20 +24,20 @@ Every commit is one century. Read the commit log and you are reading history.
 
 | Nation | Era | People | Land | Stability |
 | --- | --- | ---: | ---: | ---: |
-| Vykrux Order | Medieval Age | 50,168 | 97 | 26 |
-| Drulem Kingdom | Medieval Age | 25,970 | 76 | 58 |
-| Nipal Compact | Renaissance | 21,192 | 78 | 64 |
-| Poupam Compact | Medieval Age | 19,716 | 57 | 55 |
-| Segias Order | Renaissance | 16,586 | 61 | 75 |
-| Koufith Dominion | Iron Age | 5,313 | 29 | 60 |
+| Vykrux Order | Medieval Age | 50,201 | 97 | 21 |
+| Drulem Kingdom | Medieval Age | 27,502 | 78 | 56 |
+| Nipal Compact | Renaissance | 22,690 | 81 | 62 |
+| Poupam Compact | Medieval Age | 19,992 | 57 | 58 |
+| Segias Order | Renaissance | 16,842 | 63 | 72 |
+| Koufith Dominion | Iron Age | 5,695 | 31 | 64 |
 
 ## Most common species
 
-- **Kukutha**: tiny heat-loving filter-feeders, 305,952 alive
-- **Hiamami**: tiny temperate grazers, 177,638 alive (thinking)
-- **Riroxons**: tiny cold-loving filter-feeders, 151,525 alive
-- **Thudriaxids**: tiny temperate filter-feeders, 127,503 alive
-- **Huhaxops**: tiny temperate filter-feeders, 114,702 alive
-- **Rithiops**: tiny temperate grazers, 106,857 alive
-- **Sethelids**: tiny temperate scavengers, 62,988 alive
-- **Yaehuxons**: tiny temperate sea hunters, 62,300 alive
+- **Kukutha**: tiny heat-loving filter-feeders, 307,598 alive
+- **Hiamami**: tiny temperate grazers, 178,057 alive (thinking)
+- **Riroxons**: tiny cold-loving filter-feeders, 151,730 alive
+- **Thudriaxids**: tiny temperate filter-feeders, 126,558 alive
+- **Huhaxops**: tiny temperate filter-feeders, 113,545 alive
+- **Rithiops**: tiny temperate grazers, 106,511 alive
+- **Sethelids**: tiny temperate scavengers, 63,107 alive
+- **Yaehuxons**: tiny temperate sea hunters, 62,283 alive
