@@ -1,6 +1,6 @@
 # The world of Yusax
 
-**Year 23,100** · tick 5403 · 27 living species · 5 nations
+**Year 23,200** · tick 5404 · 27 living species · 5 nations
 
 This branch is the world's save file. A robot commits here every hour. Nobody edits it by hand.
 Every commit is one century. Read the commit log and you are reading history.
@@ -24,19 +24,19 @@ Every commit is one century. Read the commit log and you are reading history.
 
 | Nation | Era | People | Land | Stability |
 | --- | --- | ---: | ---: | ---: |
-| Drulem Kingdom | Medieval Age | 51,553 | 115 | 23 |
-| Vykrux Order | Medieval Age | 44,072 | 94 | 40 |
-| Nipal Compact | Renaissance | 14,864 | 57 | 66 |
-| Segias Order | Medieval Age | 13,504 | 47 | 73 |
-| Koufith Dominion | Iron Age | 3,280 | 20 | 62 |
+| Drulem Kingdom | Medieval Age | 51,511 | 117 | 22 |
+| Vykrux Order | Medieval Age | 45,895 | 96 | 36 |
+| Nipal Compact | Renaissance | 15,182 | 60 | 71 |
+| Segias Order | Medieval Age | 14,081 | 49 | 72 |
+| Koufith Dominion | Iron Age | 3,400 | 22 | 63 |
 
 ## Most common species
 
-- **Kukutha**: tiny heat-loving filter-feeders, 282,855 alive
-- **Hiamami**: tiny temperate grazers, 180,920 alive (thinking)
-- **Riroxons**: tiny cold-loving filter-feeders, 150,747 alive
-- **Thudriaxids**: tiny temperate filter-feeders, 131,860 alive
-- **Huhaxops**: tiny temperate filter-feeders, 124,807 alive
-- **Rithiops**: tiny temperate grazers, 104,368 alive
-- **Sethelids**: tiny temperate scavengers, 62,302 alive
-- **Yaehuxons**: tiny temperate sea hunters, 61,609 alive
+- **Kukutha**: tiny heat-loving filter-feeders, 287,472 alive
+- **Hiamami**: tiny temperate grazers, 181,671 alive (thinking)
+- **Riroxons**: tiny cold-loving filter-feeders, 150,668 alive
+- **Thudriaxids**: tiny temperate filter-feeders, 131,422 alive
+- **Huhaxops**: tiny temperate filter-feeders, 123,672 alive
+- **Rithiops**: tiny temperate grazers, 106,892 alive
+- **Sethelids**: tiny temperate scavengers, 62,381 alive
+- **Yaehuxons**: tiny temperate sea hunters, 61,898 alive
