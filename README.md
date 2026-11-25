@@ -1,6 +1,6 @@
 # The world of Yusax
 
-**Year 32,200** · tick 5494 · 27 living species · 8 nations
+**Year 32,300** · tick 5495 · 27 living species · 8 nations
 
 This branch is the world's save file. A robot commits here every hour. Nobody edits it by hand.
 Every commit is one century. Read the commit log and you are reading history.
@@ -24,22 +24,22 @@ Every commit is one century. Read the commit log and you are reading history.
 
 | Nation | Era | People | Land | Stability |
 | --- | --- | ---: | ---: | ---: |
-| Nipal Compact | Atomic Age | 48,684 | 92 | 54 |
-| Drulem Kingdom | Atomic Age | 44,091 | 102 | 49 |
-| Vykrux Order | Industrial Age | 39,804 | 87 | 50 |
-| Poupam Compact | Industrial Age | 32,122 | 70 | 76 |
-| Koufith Dominion | Renaissance | 21,011 | 55 | 77 |
-| Hoquax Realm | Industrial Age | 20,950 | 20 | 79 |
-| Maeshuth Order | Industrial Age | 15,298 | 57 | 83 |
-| Segias Order | Atomic Age | 14,359 | 80 | 70 |
+| Nipal Compact | Atomic Age | 48,651 | 92 | 54 |
+| Drulem Kingdom | Atomic Age | 41,993 | 102 | 50 |
+| Vykrux Order | Industrial Age | 38,783 | 87 | 49 |
+| Poupam Compact | Industrial Age | 31,962 | 70 | 72 |
+| Koufith Dominion | Renaissance | 21,102 | 55 | 76 |
+| Hoquax Realm | Industrial Age | 21,048 | 20 | 81 |
+| Maeshuth Order | Industrial Age | 14,810 | 57 | 79 |
+| Segias Order | Atomic Age | 13,641 | 80 | 69 |
 
 ## Most common species
 
-- **Kukutha**: tiny heat-loving filter-feeders, 256,003 alive
-- **Hiamami**: tiny temperate grazers, 172,982 alive (thinking)
-- **Riroxons**: tiny cold-loving filter-feeders, 116,357 alive
-- **Kroshaxons**: tiny temperate filter-feeders, 83,231 alive
-- **Thudriaxids**: tiny temperate filter-feeders, 80,959 alive
-- **Huhaxops**: tiny temperate filter-feeders, 72,883 alive
-- **Sethelids**: tiny temperate scavengers, 62,731 alive
-- **Yaehuxons**: tiny temperate sea hunters, 56,171 alive
+- **Kukutha**: tiny heat-loving filter-feeders, 252,247 alive
+- **Hiamami**: tiny temperate grazers, 168,528 alive (thinking)
+- **Riroxons**: tiny cold-loving filter-feeders, 116,775 alive
+- **Kroshaxons**: tiny temperate filter-feeders, 83,985 alive
+- **Thudriaxids**: tiny temperate filter-feeders, 79,080 alive
+- **Huhaxops**: tiny temperate filter-feeders, 72,530 alive
+- **Sethelids**: tiny temperate scavengers, 62,748 alive
+- **Yaehuxons**: tiny temperate sea hunters, 55,626 alive
