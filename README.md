@@ -1,12 +1,14 @@
 # The world of Yusax
 
-**Year 34,000** · tick 5512 · 27 living species · 8 nations
+**Year 34,100** · tick 5513 · 27 living species · 8 nations
 
 This branch is the world's save file. A robot commits here every hour. Nobody edits it by hand.
 Every commit is one century. Read the commit log and you are reading history.
 
 ## Latest news
 
+- **Year 34,100** Maeshuth Order enters the Atomic Age
+- **Year 34,100** Vykrux Order enters the Atomic Age
 - **Year 34,000** Koufith Dominion enters the Industrial Age
 - **Year 33,800** The Myyiaxons are gone, crowded out as the Maeshuth Order spreads
 - **Year 33,400** Poupam Compact enters the Atomic Age
@@ -17,29 +19,27 @@ Every commit is one century. Read the commit log and you are reading history.
 - **Year 31,600** Maeshuth Order enters the Industrial Age
 - **Year 31,600** Hoquax Realm enters the Industrial Age
 - **Year 31,500** Nipal Compact enters the Atomic Age
-- **Year 30,800** The Nulaenari learn to speak, tame fire, and bury their dead
-- **Year 30,600** Vykrux Order enters the Industrial Age
 
 ## Nations
 
 | Nation | Era | People | Land | Stability |
 | --- | --- | ---: | ---: | ---: |
-| Nipal Compact | Atomic Age | 44,901 | 93 | 60 |
-| Drulem Kingdom | Atomic Age | 30,670 | 102 | 60 |
-| Vykrux Order | Industrial Age | 29,155 | 87 | 54 |
-| Poupam Compact | Atomic Age | 28,895 | 70 | 81 |
-| Hoquax Realm | Industrial Age | 22,626 | 20 | 74 |
-| Koufith Dominion | Industrial Age | 19,399 | 55 | 78 |
-| Maeshuth Order | Industrial Age | 9,410 | 57 | 78 |
-| Segias Order | Atomic Age | 5,816 | 80 | 73 |
+| Nipal Compact | Atomic Age | 44,635 | 93 | 60 |
+| Drulem Kingdom | Atomic Age | 30,591 | 102 | 55 |
+| Vykrux Order | Atomic Age | 29,118 | 87 | 54 |
+| Poupam Compact | Atomic Age | 28,871 | 70 | 80 |
+| Hoquax Realm | Industrial Age | 22,721 | 20 | 78 |
+| Koufith Dominion | Industrial Age | 19,404 | 55 | 73 |
+| Maeshuth Order | Atomic Age | 8,867 | 57 | 75 |
+| Segias Order | Atomic Age | 5,580 | 80 | 69 |
 
 ## Most common species
 
-- **Kukutha**: tiny heat-loving filter-feeders, 182,215 alive
-- **Hiamami**: tiny temperate grazers, 122,254 alive (thinking)
-- **Riroxons**: tiny cold-loving filter-feeders, 112,004 alive
-- **Kroshaxons**: tiny temperate filter-feeders, 103,651 alive
-- **Huhaxops**: tiny temperate filter-feeders, 84,318 alive
-- **Thudriaxids**: tiny temperate filter-feeders, 66,372 alive
-- **Kronourari**: tiny cold-loving filter-feeders, 61,391 alive
-- **Yaehuxons**: tiny temperate sea hunters, 57,276 alive
+- **Kukutha**: tiny heat-loving filter-feeders, 178,899 alive
+- **Hiamami**: tiny temperate grazers, 121,437 alive (thinking)
+- **Riroxons**: tiny cold-loving filter-feeders, 113,518 alive
+- **Kroshaxons**: tiny temperate filter-feeders, 105,233 alive
+- **Huhaxops**: tiny temperate filter-feeders, 86,419 alive
+- **Thudriaxids**: tiny temperate filter-feeders, 66,895 alive
+- **Kronourari**: tiny cold-loving filter-feeders, 62,883 alive
+- **Yaehuxons**: tiny temperate sea hunters, 57,710 alive
