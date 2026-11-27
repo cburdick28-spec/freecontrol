@@ -1,12 +1,13 @@
 # The world of Yusax
 
-**Year 36,200** · tick 5534 · 27 living species · 8 nations
+**Year 36,300** · tick 5535 · 26 living species · 8 nations
 
 This branch is the world's save file. A robot commits here every hour. Nobody edits it by hand.
 Every commit is one century. Read the commit log and you are reading history.
 
 ## Latest news
 
+- **Year 36,300** Drulem Kingdom enters the Space Age
 - **Year 36,000** A plague sweeps through Segias Order
 - **Year 36,000** Koufith Dominion enters the Atomic Age
 - **Year 35,800** Nipal Compact enters the Space Age
@@ -18,28 +19,27 @@ Every commit is one century. Read the commit log and you are reading history.
 - **Year 34,500** Hoquax Realm enters the Atomic Age
 - **Year 34,500** The Sofama are gone, crowded out as the Vykrux Order spreads
 - **Year 34,100** Maeshuth Order enters the Atomic Age
-- **Year 34,100** Vykrux Order enters the Atomic Age
 
 ## Nations
 
 | Nation | Era | People | Land | Stability |
 | --- | --- | ---: | ---: | ---: |
-| Nipal Compact | Space Age | 49,376 | 93 | 61 |
-| Drulem Kingdom | Atomic Age | 34,675 | 102 | 62 |
-| Vykrux Order | Atomic Age | 33,870 | 87 | 57 |
-| Poupam Compact | Atomic Age | 32,752 | 70 | 74 |
-| Hoquax Realm | Atomic Age | 25,039 | 20 | 98 |
-| Koufith Dominion | Atomic Age | 24,550 | 55 | 63 |
-| Maeshuth Order | Atomic Age | 12,136 | 57 | 80 |
-| Segias Order | Atomic Age | 5,468 | 80 | 66 |
+| Nipal Compact | Space Age | 49,686 | 93 | 63 |
+| Drulem Kingdom | Space Age | 34,928 | 102 | 63 |
+| Vykrux Order | Atomic Age | 34,507 | 87 | 55 |
+| Poupam Compact | Atomic Age | 33,284 | 70 | 72 |
+| Hoquax Realm | Atomic Age | 25,204 | 20 | 95 |
+| Koufith Dominion | Atomic Age | 24,812 | 55 | 63 |
+| Maeshuth Order | Atomic Age | 12,538 | 57 | 76 |
+| Segias Order | Atomic Age | 6,041 | 80 | 69 |
 
 ## Most common species
 
-- **Kukutha**: tiny heat-loving filter-feeders, 155,319 alive
-- **Riroxons**: tiny cold-loving filter-feeders, 150,043 alive
-- **Hiamami**: tiny temperate grazers, 140,646 alive (thinking)
-- **Huhaxops**: tiny temperate filter-feeders, 125,073 alive
-- **Kroshaxons**: tiny temperate filter-feeders, 106,115 alive
-- **Thudriaxids**: tiny temperate filter-feeders, 105,470 alive
-- **Kronourari**: tiny cold-loving filter-feeders, 80,769 alive
-- **Yaehuxons**: tiny temperate sea hunters, 67,575 alive
+- **Kukutha**: tiny heat-loving filter-feeders, 155,237 alive
+- **Riroxons**: tiny cold-loving filter-feeders, 151,555 alive
+- **Hiamami**: tiny temperate grazers, 143,207 alive (thinking)
+- **Huhaxops**: tiny temperate filter-feeders, 125,662 alive
+- **Thudriaxids**: tiny temperate filter-feeders, 107,751 alive
+- **Kroshaxons**: tiny temperate filter-feeders, 104,915 alive
+- **Kronourari**: tiny cold-loving filter-feeders, 80,804 alive
+- **Yaehuxons**: tiny temperate sea hunters, 67,656 alive
